@@ -1,0 +1,5 @@
+package com.insurance.user;
+
+public enum Role {
+    CUSTOMER, SUPERVISOR, CLAIMS_OFFICER, OPERATIONS_MANAGER, BRANCH_MANAGER, FINANCE_EXECUTIVE
+}

@@ -1,0 +1,9 @@
+target/
+*.class
+node_modules/
+dist/
+.env
+*.log
+.idea/
+*.iml
+.DS_Store
